@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ricardo-emerson.create-react-tsx-component",
+			"bradlc.vscode-tailwindcss",
+			"msjsdiag.vscode-react-native",
+			"runningcoder.react-snippets",
+			"mkloubert.vs-script-commands",
+			"planbcoding.vscode-react-refactor",
+			"dotjoshjohnson.xml",
+			"zhang-renyang.vscode-react",
+			"wallabyjs.quokka-vscode",
+			"dsznajder.es7-react-js-snippets",
+			"dmeenhuis.es7-react-js-snippets-with-semicolons"
+		]
+	}
+}
